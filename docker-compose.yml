@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+    jenkins:
+        #build:
+        #    context: .
+        #   dockerfile: Jenkins.Dockerfile
+        image: jenkins/jenkins
+        volumes:
+            - ./jenkins_home:/var/jenkins_home:Z
+            #- ./target/pending-changes.hpi:/var/jenkins_home/plugins/pending-changes.hpi:Z
+        ports:
+            - 8080:8080

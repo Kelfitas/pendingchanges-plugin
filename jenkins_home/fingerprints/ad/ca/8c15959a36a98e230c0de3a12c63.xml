@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-11-17 17:48:35.747 UTC</timestamp>
+  <md5sum>adca8c15959a36a98e230c0de3a12c63</md5sum>
+  <fileName>Credential id=85b5c800-5841-434e-892c-bde52795c208 name=goldwin-tcs/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.1.18">
+      <timestamp>1542476915722</timestamp>
+      <itemFullName>WestCasinoTest</itemFullName>
+      <timestamp0>1542476915722</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

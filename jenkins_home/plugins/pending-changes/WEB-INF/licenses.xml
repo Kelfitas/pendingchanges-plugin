@@ -1,0 +1,6 @@
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='pending-changes' version='0.4.0-SNAPSHOT'>
+  <l:dependency name='Pending Changes plugin' groupId='org.jenkins-ci.plugins' artifactId='pending-changes' version='0.4.0-SNAPSHOT' url='http://wiki.jenkins-ci.org/display/JENKINS/Pending+Changes+Plugin'>
+    <l:description>Adds a view of all changes in SCM more recent than the last build</l:description>
+    <l:license name='The MIT license' url='http://www.opensource.org/licenses/mit-license.php' />
+  </l:dependency>
+</l:dependencies>

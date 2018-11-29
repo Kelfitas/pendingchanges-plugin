@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: kelfitas
+Build-Jdk: 1.8.0_181
+Extension-Name: pending-changes
+Specification-Title: Adds a view of all changes in SCM more recent tha
+ n the last build
+Implementation-Title: pending-changes
+Implementation-Version: 0.4.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: pending-changes
+Long-Name: Pending Changes plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Pending+Changes+Plugin
+Plugin-Version: 0.4.0-SNAPSHOT (private-11/13/2018 21:10-kelfitas)
+Hudson-Version: 1.480
+Jenkins-Version: 1.480
+Plugin-Dependencies: subversion:1.26
+Plugin-Developers: Andreas Vogler:avogler:
+
